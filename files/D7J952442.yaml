@@ -1,0 +1,86 @@
+--- !ruby/object:Finder::SnmpTypes::SnmpDevice 
+uid: D7J952442
+name: brn_909527
+nbname: brn_909527
+myType: NetworkPrinter
+computer_type: NetworkPrinter
+myData: 
+- description: Brother HL-5250DN series
+  device_type: NetworkPrinter
+  ip_address: 192.168.200.4
+  kernel: "20061220"
+  last_boot_up_time: 2020-10-28 12:43:46.447452 +01:00
+  mac_address: 00:80:77:90:95:27
+  management_oid: 1.3.6.1.4.1.11.2.3.9.1
+  manufacturer: Brother
+  memory: 33554432
+  model: HL-5250DN series
+  name: brn_909527
+  page_count: "35433"
+  port_scan_results: 
+  - - :http
+    - 80
+    - true
+  - - :http_VNC
+    - 5800
+    - false
+  - - :http_vPro
+    - 16992
+    - false
+  - - :https
+    - 443
+    - false
+  - - :ilo
+    - 17988
+    - false
+  - - :jetdirect
+    - 9100
+    - true
+  - - :microsoft_ds
+    - 445
+    - false
+  - - :netbios_ssn
+    - 139
+    - true
+  - - :rdp
+    - 3389
+    - false
+  - - :sip
+    - 5060
+    - false
+  - - :ssh
+    - 22
+    - false
+  - - :wmi
+    - 135
+    - false
+  printer_supplies: 
+  - color: black
+    current_level: "0"
+    level: 0
+    max_level: "-2"
+    name: Toner Cartridge Brother TN-550/TN-3130/TN-3145/TN-35J/TN-3135
+    type_id: "3"
+  - color: black
+    current_level: "-3"
+    level: 0
+    max_level: "-2"
+    name: Toner Cartridge Brother TN-580/TN-3170/TN-3185/TN-37J/TN-3175
+    type_id: "3"
+  - color: black
+    current_level: "0"
+    level: 0
+    max_level: "25000"
+    name: Drum Unit Brother DR-520/DR-3100/DR-3115/DR-31J/DR-3150/DR-3117
+    type_id: "9"
+  serial_number: D7J952442
+  server_name: brn_909527
+filledData: 
+user: public community string
+ip: 192.168.200.4
+ips: []
+
+service_port: 80
+mac: 00:80:77:90:95:27
+fingerprint: 
+last_scan_time: 2020-11-05 18:15:33.600455 +01:00

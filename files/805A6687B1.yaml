@@ -1,0 +1,62 @@
+--- !ruby/object:Finder::HttpTypes::HttpDevice 
+uid: 805A6687B1
+name: 192.168.200.7
+nbname: 
+myType: HttpDevice
+computer_type: NetworkPrinter
+myData: 
+- description: a Network Printer
+  device_type: NetworkPrinter
+  ip_address: 192.168.200.7
+  mac_address: 00:80:5A:66:87:B1
+  manufacturer: Tulip Computers Int BV
+  name: 192.168.200.7
+  port_scan_results: 
+  - - :http
+    - 80
+    - true
+  - - :http_VNC
+    - 5800
+    - false
+  - - :http_vPro
+    - 16992
+    - false
+  - - :https
+    - 443
+    - false
+  - - :ilo
+    - 17988
+    - false
+  - - :jetdirect
+    - 9100
+    - true
+  - - :microsoft_ds
+    - 445
+    - false
+  - - :netbios_ssn
+    - 139
+    - true
+  - - :rdp
+    - 3389
+    - false
+  - - :sip
+    - 5060
+    - false
+  - - :ssh
+    - 22
+    - false
+  - - :wmi
+    - 135
+    - false
+  serial_number: 805A6687B1
+  server_name: 192.168.200.7
+filledData: {}
+
+user: 
+ip: 192.168.200.7
+ips: []
+
+service_port: 80
+mac: 00:80:5A:66:87:B1
+fingerprint: 
+last_scan_time: 2020-11-05 18:01:24.589723 +01:00

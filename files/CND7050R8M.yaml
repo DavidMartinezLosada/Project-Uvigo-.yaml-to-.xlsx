@@ -1,0 +1,90 @@
+--- !ruby/object:Finder::WindowsTypes::Computer 
+uid: CND7050R8M
+name: desktop-adnaiv7
+nbname: desktop-adnaiv7
+myType: Computer
+computer_type: Laptop
+myData: 
+- asset_tag: 
+  base_serial_number: PGBKBD41W626C3
+  bios_date: 2016-10-27
+  bios_version: F.21
+  current_user: LAB33\Administrador
+  description: AT/AT COMPATIBLE
+  device_type: Laptop
+  dn: CN=DESKTOP-ADNAIV7,CN=Computers,DC=Lab33,DC=sing-group,DC=org
+  domain: lab33.sing-group.org
+  domain_role: "1"
+  install_date: 2020-10-06 20:45:56 +02:00
+  ip_address: 192.168.200.124
+  last_boot_up_time: 2020-11-09 11:08:28 +01:00
+  mac_address: 40:B0:34:70:76:68
+  manufacturer: Hewlett-Packard
+  memory: "17091694592"
+  model: Notebook
+  name: desktop-adnaiv7
+  number_of_licensed_users: "0"
+  number_of_processors: "1"
+  operating_system: Windows 10 Pro
+  os_architecture: 64 bit
+  os_serial_number: 00330-80199-46616-AA069
+  port_scan_results: 
+  - - :http
+    - 80
+    - false
+  - - :http_VNC
+    - 5800
+    - false
+  - - :http_vPro
+    - 16992
+    - false
+  - - :https
+    - 443
+    - false
+  - - :ilo
+    - 17988
+    - false
+  - - :jetdirect
+    - 9100
+    - false
+  - - :microsoft_ds
+    - 445
+    - true
+  - - :netbios_ssn
+    - 139
+    - true
+  - - :rdp
+    - 3389
+    - false
+  - - :sip
+    - 5060
+    - false
+  - - :ssh
+    - 22
+    - false
+  - - :wmi
+    - 135
+    - true
+  primary_owner_name: david.ml7@hotmail.com
+  processor_architecture: x64
+  processor_type: Intel Core i5-7200U 2.50GHz
+  product_number: Z5F85EA
+  raw_serial_number: Chassis Serial Number
+  serial_number: CND7050R8M
+  server_name: desktop-adnaiv7.lab33.sing-group.org
+  service_pack_major_version: "0"
+  service_pack_minor_version: "0"
+  type: Computer
+  uuid: 39B376A2-A4E2-E611-B753-40B034707668
+  version: 10.0.18363
+  windows_product_id: 00330-80199-46616-AA069
+  windows_user: david.ml7@hotmail.com
+filledData: 
+user: wmi-Lab33.sing-group.org\Administrador-5c9
+ip: 192.168.200.124
+ips: []
+
+service_port: 135
+mac: 40:B0:34:70:76:68
+fingerprint: 
+last_scan_time: 2020-11-09 11:30:05.203296 +01:00

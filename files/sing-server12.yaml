@@ -1,0 +1,89 @@
+--- !ruby/object:Finder::WindowsTypes::Computer 
+uid: sing-server12
+name: sing-server12
+nbname: sing-server12
+myType: Computer
+computer_type: Server
+myData: 
+- asset_tag: 
+  base_serial_number: To be filled by O.E.M.
+  bios_date: 2013-08-30
+  bios_version: F2
+  current_user: LAB33\Administrador
+  description: AT/AT COMPATIBLE
+  device_type: Server
+  dn: CN=SING-SERVER12,OU=Domain Controllers,DC=Lab33,DC=sing-group,DC=org
+  domain: lab33.sing-group.org
+  domain_role: "5"
+  install_date: 2020-11-02 12:46:08 +01:00
+  ip_address: 192.168.200.177
+  last_boot_up_time: 2020-11-02 13:12:40 +01:00
+  mac_address: 74:D4:35:4E:11:0B
+  manufacturer: Gigabyte Technology Co.
+  memory: "8473370624"
+  model: To be filled by O.E.M.
+  name: sing-server12
+  number_of_licensed_users: "0"
+  number_of_processors: "1"
+  operating_system: Windows Server 2012 Evaluation
+  os_architecture: 64 bit
+  os_serial_number: 00183-90000-00001-AA422
+  port_scan_results: 
+  - - :http
+    - 80
+    - false
+  - - :http_VNC
+    - 5800
+    - false
+  - - :http_vPro
+    - 16992
+    - false
+  - - :https
+    - 443
+    - false
+  - - :ilo
+    - 17988
+    - false
+  - - :jetdirect
+    - 9100
+    - false
+  - - :microsoft_ds
+    - 445
+    - true
+  - - :netbios_ssn
+    - 139
+    - true
+  - - :rdp
+    - 3389
+    - true
+  - - :sip
+    - 5060
+    - false
+  - - :ssh
+    - 22
+    - false
+  - - :wmi
+    - 135
+    - true
+  primary_owner_name: Usuario de Windows
+  processor_architecture: x64
+  processor_type: Intel Core i3-2120 3.30GHz
+  raw_serial_number: To Be Filled By O.E.M.
+  serial_number: sing-server12
+  server_name: sing-server12.lab33.sing-group.org
+  service_pack_major_version: "0"
+  service_pack_minor_version: "0"
+  type: Computer
+  uuid: 03D40274-0435-054E-1106-0B0700080009
+  version: 6.2.9200
+  windows_product_id: 00183-90000-00001-AA422
+  windows_user: Usuario de Windows
+filledData: 
+user: wmi-Lab33.sing-group.org\Administrador-5c9
+ip: 192.168.200.177
+ips: []
+
+service_port: 135
+mac: 74:D4:35:4E:11:0B
+fingerprint: 
+last_scan_time: 2020-11-05 20:30:02.763217 +01:00
