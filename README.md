@@ -2,7 +2,7 @@
 
 Este proyecto permitirá leer los archivos generados con el programa de Spiceworks de inventariado de software que tiene extensión .yaml y todos los datos generados los convertirá en un libro de Excel ya sea con un archivo o varios.
 
-El lenguaje utilizado será Python 3 ya que es multiplataforma y se emplea bastante en administración de sistemas para ejecutar scripts.
+El lenguaje utilizado será Python 3 🐍 ya que es multiplataforma y se emplea bastante en administración de sistemas para ejecutar scripts.
 
 ## 🛠️ Funcionalidad 1: 
 El resultado se puede exportar a .xlsx o a pkl.
