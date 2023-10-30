@@ -10,7 +10,7 @@ El resultado se puede exportar a .xlsx con la opción "--option excel" o .pkl co
 
 ![Captura desde 2023-10-30 20-56-59](https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/52a61aa0-75fe-486b-afa1-75a7d47565a9)
 
-![Captura desde 2023-10-30 20-56-59](https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/7c957db8-0bf4-438a-8994-77c796a67453)
+![Captura desde 2023-10-30 21-04-50](https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/fe9af875-dbb1-491c-838f-bf34f62a2947)
 
 ## 🛠️ Funcionalidad 2: 
 Si la opción --file tiene valor "all" entonces exporta todos los archivos a un único .xlsx introduciendo en cada hoja el nombre del archivo correspondiente, por el contrario, si el valor --file es el "nombre-archivo.yaml" exportará ese único archivo.
