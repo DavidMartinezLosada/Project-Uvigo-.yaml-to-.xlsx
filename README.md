@@ -10,8 +10,8 @@ El resultado se puede exportar a .xlsx con la opción "--option excel" o .pkl co
 
 <div align="center">
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/b1e34e64-c10d-40c5-b32b-4d17b9894401">
-</div>
-<div align="center">
+  <br/>
+  <br/>
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/5c201ac7-f92f-40bc-b5b0-87eec1565170">
 </div>
 
@@ -20,8 +20,8 @@ Si la opción --file tiene valor "all" entonces exporta todos los archivos a un 
 
 <div align="center">
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/b2cf27e2-bc0e-407c-b62a-6b2577e2eee0">
-</div>
-<div align="center">
+  <br/>
+  <br/>
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/f96c975a-3f93-4082-8f15-ddc03bb44769">
 </div>
 
@@ -59,3 +59,9 @@ Inicianilaza el script lee los parámetros indicados que pueden ser; --option,--
 - Con el parámetro --file y el argumento "nombre de archivo" se exporta un único archivo.
   - Si el parámetro --file tiene valor "all" exporta todos los archivos.
 - Con el parámetro --config y el argumento "C:\RUTA" indica la ubicación de los archivos extensión .yaml que serán empleados.
+<div align="center">
+  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/799cf66b-fce7-4427-a596-afc77c2a2a40">
+  <br/>
+  <br/>
+  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/b5be0560-9ac8-4f2e-a43a-73adee8bdf77">
+</div>
