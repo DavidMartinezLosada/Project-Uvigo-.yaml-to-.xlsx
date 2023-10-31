@@ -1,8 +1,9 @@
 # Project-Uvigo .yaml to .xlsx
 
 Este proyecto permitirá leer los archivos generados con el programa de Spiceworks de inventariado de software que tiene extensión .yaml y todos los datos generados los convertirá en un libro de Excel ya sea con un archivo o varios.
-
 El lenguaje utilizado será Python 3 🐍 ya que es multiplataforma y se emplea bastante en administración de sistemas para ejecutar scripts.
+<br/>
+<br/>
 ## 🛠️ Funcionalidades:
 
 ### 🔨 Funcionalidad 1: 
@@ -99,3 +100,30 @@ Funciones empleadas para reemplazar el nombre, memoria del diccionario elements 
 Abre el archivo extensión .pkl y genera el archivo extensión .xlsx sí él argumento introducido es el nombre de un .pkl "pickle".
 #### - Script multiple_sheet.py
 Introduce todos los pickles en un mismo libro formato .xlsx "excel" con el nombre all.xlsx cuando se introduce el argumento "all" en el parámetro --file, si no existe lo crea, si existe lo borra y lo vuelve a crear.
+<br/>
+<br/>
+
+## Instalación y despliegue
+Crear entorno virtual para no tener problemas a la hora de conflictos entre librerías y diferentes versiones de Python 3.<br/>
+Para crear entorno virtual y decidir nombre para el mismo.<br/>
+`python -m venv "nombre_del_entorno"`<br/>
+
+Activación del entorno.<br/>
+- Windows:<br/>
+`"nombre_del_entorno"\Scripts\activate.bat`<br/>
+- Linux:<br/>
+`source "nombre_del_entorno"/bin/activate`<br/>
+
+Instalación de dependencias de librerías con el archivo requirements.txt.<br/>
+`pip install -r requirements.txt`
+
+Verificación de despliegue.<br/>
+<div align="center">
+  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/11648e50-13de-43c1-a708-65d9e3ca05b5">
+</div>
+<br/>
+<br/>
+
+## Funcionamiento
+
+## Documentación
