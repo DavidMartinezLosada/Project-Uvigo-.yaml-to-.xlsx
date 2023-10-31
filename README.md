@@ -121,5 +121,21 @@ Verificación de despliegue.<br/>
 <br/>
 
 ## Funcionamiento
+<div align="center">
+  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/ba189c23-79bc-4f7a-a50d-76c554318b22">
+  <br/>
+  <br/>
+  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/4dc5aaad-f170-4552-851e-b38abd540111">
+  <br/>
+  <br/>
+  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/1770cacf-fdea-4e90-b6b4-ae0c4ae0c252">
+  <br/>
+  <br/>
+  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/a7351fce-1de2-4301-90b0-c808d7d760f8">
+  <br/>
+  <br/>
+  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/e555fd5b-231e-4192-85f6-d8e4a3ef7835"> 
+</div>
+<br/>
 
 ## Documentación
