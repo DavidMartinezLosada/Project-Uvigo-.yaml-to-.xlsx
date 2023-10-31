@@ -100,7 +100,7 @@ Abre el archivo extensión .pkl y genera el archivo extensión .xlsx sí él arg
 Introduce todos los pickles en un mismo libro formato .xlsx "excel" con el nombre all.xlsx cuando se introduce el argumento "all" en el parámetro --file, si no existe lo crea, si existe lo borra y lo vuelve a crear.
 <br/>
 
-## Instalación y despliegue
+## 📄 Instalación y despliegue
 Crear entorno virtual para no tener problemas a la hora de conflictos entre librerías y diferentes versiones de Python 3.<br/>
 Para crear entorno virtual y decidir nombre para el mismo.<br/>
 `python -m venv "nombre_del_entorno"`<br/>
@@ -120,7 +120,7 @@ Verificación de despliegue.<br/>
 </div>
 <br/>
 
-## Funcionamiento
+## 💻 Funcionamiento
 <div align="center">
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/ba189c23-79bc-4f7a-a50d-76c554318b22">
   <br/>
@@ -138,4 +138,31 @@ Verificación de despliegue.<br/>
 </div>
 <br/>
 
-## Documentación
+## 📚 Documentación
+
+- Readthedocs.io, https://xlsxwriter.readthedocs.io/getting_started.html
+  <br/>
+  <br/>
+- Readthedocs.io, https://xlsxwriter.readthedocs.io/
+  <br/>
+  <br/>
+- Python.org, https://docs.python.org/es/3.8/howto/argparse.html
+  <br/>
+  <br/>
+- Hektorprofe.net, https://docs.hektorprofe.net/python/manejo-de-ficheros/modulo-pickle/
+  <br/>
+  <br/>
+- Techexpert.tips, https://techexpert.tips/es/windows-es/instalacion-de-python-en-windows/
+  <br/>
+  <br/>
+- Pcmag.com «Application software» PC Magazine Ziff Davis, https://www.pcmag.com/encyclopedia/term/application-program
+  <br/>
+  <br/>
+- Webtutoriales.com, http://www.webtutoriales.com/articulos/yaml
+  <br/>
+  <br/>
+- Devcode, https://devcode.la/tutoriales/diccionarios-en-python/
+  <br/>
+  <br/>
+- Mclibre.org, https://www.mclibre.org/consultar/python/lecciones/python-listas.html
+  <br/>
