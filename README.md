@@ -53,7 +53,7 @@ Devuelve una lista de las aplicaciones que se están ejecutando en puertos conoc
 
 ## 🔧 Módulos:
 
-### Módulo index.py:
+### Script index.py
 Inicianilaza el script lee los parámetros indicados que pueden ser; --option,--file y --config.
 - Con el parámetro --option y el argumento "read" exporta los archivos a extensión .pkl y a extensión .xlsx con el argumento "excel".
 - Con el parámetro --file y el argumento "nombre de archivo" se exporta un único archivo.
@@ -66,7 +66,8 @@ Inicianilaza el script lee los parámetros indicados que pueden ser; --option,--
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/b5be0560-9ac8-4f2e-a43a-73adee8bdf77">
 </div>
 
-### Módulo read_file.py:
+### Módulo input_text: 
+#### - Script read_file.py
 Lectura de archivos extensión .yaml y generación de un diccionario llamado elements que contiene un segundo diccionario y una lista con sublistas siendo exportados .pkl como binarios.
 <div align="center">
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/4e63657e-6c6d-4988-a6ba-2a09b0f5e551">
@@ -75,3 +76,17 @@ Lectura de archivos extensión .yaml y generación de un diccionario llamado ele
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/5d1231e3-d881-4f0c-9120-a32b16b01d6b">
 </div>
 
+### Módulo methods: 
+#### - Script security.py
+Comprueba los puertos del diccionario elements que estén en valor true retornado en una lista llamada list_warning.
+<div align="center">
+  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/14f63d27-ad4c-4714-975b-5ce96b1f70f8">
+</div>
+
+### Módulo output-text:
+#### - Script utils.py
+Funciones empleadas para reemplazar el nombre, memoria del diccionario elements y vuelca los datos contenidos de los archivos extensión .yaml en un archivo extensión .xlsx formato "excel".
+#### - Script generation_file.py
+Abre el archivo extensión .pkl y genera el archivo extensión .xlsx sí él argumento introducido es el nombre de un .pkl "pickle".
+#### - Script multiple_sheet.py
+Introduce todos los pickles en un mismo libro formato .xlsx "excel" con el nombre all.xlsx cuando se introduce el argumento "all" en el parámetro --file, si no existe lo crea, si existe lo borra y lo vuelve a crear.
