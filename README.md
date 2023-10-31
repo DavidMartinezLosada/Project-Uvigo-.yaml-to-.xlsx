@@ -55,7 +55,7 @@ Devuelve una lista de las aplicaciones que se están ejecutando en puertos conoc
 
 ### Módulo index.py:
 Inicianilaza el script lee los parámetros indicados que pueden ser; --option,--file,--config.
---option con el parámetro "read" exporta a pkl y con el parámetro "".
-File indica el nombre de archivo que se va a exportar.
-Si file tiene valor "all" entonces exporta todos los archivos a un único Excel
-introduciendo en cada hoja el nombre del archivo correspondiente.
+- Con el parámetro --option y el argumento "read" exporta los archivos a extensión .pkl y a extensión .xlsx con el argumento "excel".
+- Con el parámetro --file y el argumento "nombre de archivo" se exporta un único archivo.
+  - Si el parámetro --file tiene valor "all" exporta todos los archivos.
+- Con el parámetro --config y el argumento "C:\RUTA" indica la ubicación de los archivos extensión .yaml que serán empleados.
