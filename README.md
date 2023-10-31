@@ -50,6 +50,15 @@ Devuelve una lista de las aplicaciones que se están ejecutando en puertos conoc
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/c01d2ecf-800a-4af1-90f3-ac8a615f5761">
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/bcbcb09a-4b49-4f1b-bb5b-187a4927ead3">
 </div>
+<br/>
+<br/>
+
+## 📂 Diagrama de la estructura de la app.
+<div align="center">
+  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/11f09cf7-f128-47b9-b1ed-b7273282b93c">
+</div>
+<br/>
+<br/>
 
 ## 🔧 Módulos:
 
