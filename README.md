@@ -52,13 +52,11 @@ Devuelve una lista de las aplicaciones que se están ejecutando en puertos conoc
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/bcbcb09a-4b49-4f1b-bb5b-187a4927ead3">
 </div>
 <br/>
-<br/>
 
 ## 📂 Diagrama de la estructura de la app.
 <div align="center">
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/11f09cf7-f128-47b9-b1ed-b7273282b93c">
 </div>
-<br/>
 <br/>
 
 ## 🔧 Módulos:
@@ -101,7 +99,6 @@ Abre el archivo extensión .pkl y genera el archivo extensión .xlsx sí él arg
 #### - Script multiple_sheet.py
 Introduce todos los pickles en un mismo libro formato .xlsx "excel" con el nombre all.xlsx cuando se introduce el argumento "all" en el parámetro --file, si no existe lo crea, si existe lo borra y lo vuelve a crear.
 <br/>
-<br/>
 
 ## Instalación y despliegue
 Crear entorno virtual para no tener problemas a la hora de conflictos entre librerías y diferentes versiones de Python 3.<br/>
@@ -121,7 +118,6 @@ Verificación de despliegue.<br/>
 <div align="center">
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/11648e50-13de-43c1-a708-65d9e3ca05b5">
 </div>
-<br/>
 <br/>
 
 ## Funcionamiento
