@@ -54,7 +54,7 @@ Devuelve una lista de las aplicaciones que se están ejecutando en puertos conoc
 ## 🔧 Módulos:
 
 ### Módulo index.py:
-Inicianilaza el script lee los parámetros indicados que pueden ser; --option,--file,--config.
+Inicianilaza el script lee los parámetros indicados que pueden ser; --option,--file y --config.
 - Con el parámetro --option y el argumento "read" exporta los archivos a extensión .pkl y a extensión .xlsx con el argumento "excel".
 - Con el parámetro --file y el argumento "nombre de archivo" se exporta un único archivo.
   - Si el parámetro --file tiene valor "all" exporta todos los archivos.
@@ -65,3 +65,13 @@ Inicianilaza el script lee los parámetros indicados que pueden ser; --option,--
   <br/>
   <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/b5be0560-9ac8-4f2e-a43a-73adee8bdf77">
 </div>
+
+### Módulo read_file.py:
+Lectura de archivos extensión .yaml y generación de un diccionario llamado elements que contiene un segundo diccionario y una lista con sublistas siendo exportados .pkl como binarios.
+<div align="center">
+  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/4e63657e-6c6d-4988-a6ba-2a09b0f5e551">
+  <br/>
+  <br/>
+  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/5d1231e3-d881-4f0c-9120-a32b16b01d6b">
+</div>
+
