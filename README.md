@@ -155,7 +155,7 @@ Verificación de despliegue.<br/>
 - Techexpert.tips, https://techexpert.tips/es/windows-es/instalacion-de-python-en-windows/
   <br/>
   <br/>
-- Pcmag.com «Application software» PC Magazine Ziff Davis, https://www.pcmag.com/encyclopedia/term/application-program
+- «Application software» PC Magazine Ziff Davis, https://www.pcmag.com/encyclopedia/term/application-program
   <br/>
   <br/>
 - Devcode, https://devcode.la/tutoriales/diccionarios-en-python/
