@@ -158,9 +158,6 @@ Verificación de despliegue.<br/>
 - Pcmag.com «Application software» PC Magazine Ziff Davis, https://www.pcmag.com/encyclopedia/term/application-program
   <br/>
   <br/>
-- Webtutoriales.com, http://www.webtutoriales.com/articulos/yaml
-  <br/>
-  <br/>
 - Devcode, https://devcode.la/tutoriales/diccionarios-en-python/
   <br/>
   <br/>
