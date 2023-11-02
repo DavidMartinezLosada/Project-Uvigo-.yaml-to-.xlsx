@@ -10,27 +10,27 @@ El lenguaje utilizado será Python 3 🐍 ya que es multiplataforma y se emplea 
 El resultado se puede exportar a .xlsx con la opción "--option excel" o .pkl con "--option read".
 
 <div align="center">
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/b1e34e64-c10d-40c5-b32b-4d17b9894401">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/functionality1-1.png">
   <br/>
   <br/>
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/5c201ac7-f92f-40bc-b5b0-87eec1565170">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/functionality1-2.png">
 </div>
 
 ### 🔨 Funcionalidad 2: 
 Si la opción --file tiene valor "all" entonces exporta todos los archivos a un único .xlsx introduciendo en cada hoja el nombre del archivo correspondiente, por el contrario, si el valor --file es el "nombre-archivo.yaml" exportará ese único archivo.
 
 <div align="center">
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/b2cf27e2-bc0e-407c-b62a-6b2577e2eee0">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/functionality2-1.png">
   <br/>
   <br/>
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/f96c975a-3f93-4082-8f15-ddc03bb44769">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/functionality2-2.png">
 </div>
 
 ### 🔨 Funcionalidad 3: 
 Al indicarle el parámetro --config le indicamos donde están los archivos .yaml que va utilizar para recoger los datos. La ruta es guardada en un archivo .txt que se encuentra en files/config.txt. Las siguientes veces que se ejecuta el programa carga el archivo "config.txt".
 
 <div align="center">
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/5e8cfb53-5562-47b7-a12a-d67e4f99469e">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/functionality3.png">
 </div>
 
 ### 🔨 Funcionalidad 4: 
@@ -40,22 +40,22 @@ Reemplaza el nombre por el tipo de dispositivo si name viene dado como ip.
 Devuelve el párametro memory si existe dependiendo dependiendo del dispositivo, si es un ordenador lo transforma de bytes a GB, si es otro en MB.
 
 <div align="center">
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/c1c6a333-e687-4121-aec9-8bff400baeef">
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/a7f5bd88-5b15-434f-a527-0c29ae91db47">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/functionality5-1.png">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/functionality5-2.png">
 </div>
 
 ### 🔨 Funcionalidad 6: 
 Devuelve una lista de las aplicaciones que se están ejecutando en puertos conocidos pintados en color verde y los que se están ejecutando en puertos desconocidos pintados en rojo.
 
 <div align="center">
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/c01d2ecf-800a-4af1-90f3-ac8a615f5761">
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/bcbcb09a-4b49-4f1b-bb5b-187a4927ead3">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/functionality6-1.png">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/functionality6-2.png">
 </div>
 <br/>
 
 ## 📂 Diagrama de la estructura de la app.
 <div align="center">
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/11f09cf7-f128-47b9-b1ed-b7273282b93c">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/diagram_app.png">
 </div>
 <br/>
 
@@ -68,27 +68,27 @@ Inicianilaza el script lee los parámetros indicados que pueden ser; --option,--
   - Si el parámetro --file tiene valor "all" exporta todos los archivos.
 - Con el parámetro --config y el argumento "C:\RUTA" indica la ubicación de los archivos extensión .yaml que serán empleados.
 <div align="center">
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/799cf66b-fce7-4427-a596-afc77c2a2a40">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/index.py1-1.png">
   <br/>
   <br/>
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/b5be0560-9ac8-4f2e-a43a-73adee8bdf77">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/index.py1-2.png">
 </div>
 
 ### Módulo input_text: 
 #### - Script read_file.py
 Lectura de archivos extensión .yaml y generación de un diccionario llamado elements que contiene un segundo diccionario y una lista con sublistas siendo exportados .pkl como binarios.
 <div align="center">
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/4e63657e-6c6d-4988-a6ba-2a09b0f5e551">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/read_file.py1.png">
   <br/>
   <br/>
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/5d1231e3-d881-4f0c-9120-a32b16b01d6b">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/read_file.py2.png">
 </div>
 
 ### Módulo methods: 
 #### - Script security.py
 Comprueba los puertos del diccionario elements que estén en valor true retornado en una lista llamada list_warning.
 <div align="center">
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/14f63d27-ad4c-4714-975b-5ce96b1f70f8">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/security.py.png">
 </div>
 
 ### Módulo output-text:
@@ -116,25 +116,25 @@ Instalación de dependencias de librerías con el archivo requirements.txt.<br/>
 
 Verificación de despliegue.<br/>
 <div align="center">
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/11648e50-13de-43c1-a708-65d9e3ca05b5">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/verify.png">
 </div>
 <br/>
 
 ## 💻 Funcionamiento
 <div align="center">
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/ba189c23-79bc-4f7a-a50d-76c554318b22">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/operation1.png">
   <br/>
   <br/>
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/4dc5aaad-f170-4552-851e-b38abd540111">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/operation2.png">
   <br/>
   <br/>
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/1770cacf-fdea-4e90-b6b4-ae0c4ae0c252">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/operation3.png">
   <br/>
   <br/>
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/a7351fce-1de2-4301-90b0-c808d7d760f8">
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/operation4.png">
   <br/>
   <br/>
-  <img src="https://github.com/DavidMartinezLosada/project-Uvigo/assets/128867870/e555fd5b-231e-4192-85f6-d8e4a3ef7835"> 
+  <img src="https://github.com/DavidMartinezLosada/Project-Uvigo_.yaml-to-.xlsx/blob/main/readme_images/operation5.png"> 
 </div>
 <br/>
 
